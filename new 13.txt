@@ -1,0 +1,18 @@
+First and foremost Protractor
+npm install protractor
+Typescript
+npm install typescript
+Cucumber dev
+npm install --save-dev cucumber
+Cucumber types
+npm install --save-dev @types/cucumber
+Cucumber protractor Framework
+npm install protractor-cucumber-framework --save-dev
+ts-node
+npm install  ts-node --save-dev
+chai
+npm install  chai --save-dev
+chai as promised
+npm install chai-as-promised --save-dev
+chai types
+npm install @types/chai --save-dev
